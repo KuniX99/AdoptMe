@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/DDSnkcycmZ/0"))()
+https://raw.githubusercontent.com/Wisteriammy/-/refs/heads/main/adoptme.lua
